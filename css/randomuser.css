@@ -1,0 +1,39 @@
+#random-user{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 20px;
+    background: rgb(236, 236, 236);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    margin-top: 130px;
+}
+#random-user img {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+#random-user h3 {
+    font-size: 30px;
+}
+#random-user p{
+    font-size: 18px;
+}
+#refreash {
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    border: 2px solid #ddd;
+}
